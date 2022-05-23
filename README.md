@@ -29,6 +29,6 @@ Concurrently I relish working in Machine Learning and Deep Learning applications
 
 ## Profile Overview
 
-![Profile views](https://gpvc.arturio.dev/Abdullah-Hasan-Sajjad)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Hasan-Sajjad&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile views](https://gpvc.arturio.dev/Abdullah-Hasan-Sajjad)
